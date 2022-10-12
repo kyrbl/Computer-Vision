@@ -14,6 +14,7 @@ opencv-python = "^4.6.0.66"
 matplotlib = "^3.6.1"
 tensorflow = "^2.10.0"
 tensorflow-probability = "^0.18.0"
+tensorflow-addons = "^0.18.0"
 
 
 [build-system]
